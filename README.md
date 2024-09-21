@@ -2,7 +2,7 @@
 <h1>Associated with Dalhousie University</h1>
 
 ## CSCI1110
-### Activity-Tracker
+### Activity Tracker
 #### Project Description
 The program tracks a user's active time (in minutes) for a specified month, calculates total and average active minutes, identifies the most active day, and visualizes the activity data.
 
