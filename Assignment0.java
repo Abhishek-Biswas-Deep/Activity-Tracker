@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 /**
  * CSCI 1110 W2021 A0 - Keeping track of active minutes in a month
- * @author Juliano Franz
- *
  */
 
 public class Assignment0 {
